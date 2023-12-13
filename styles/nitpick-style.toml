@@ -1,10 +1,10 @@
 [nitpick]
-minimum_version = "0.29.0"
+minimum_version = "0.34.0"
 
 [nitpick.styles]
 include = [
-  "github://CaptainBloodborne/python-style/poetry.toml",
-  "github://CaptainBloodborne/python-style/ruff.toml",
-  "github://CaptainBloodborne/python-style/mypy.toml",
-  "github://CaptainBloodborne/python-style/file-structure.toml"
+  "https://github.com/CaptainBloodborne/python-style/blob/master/styles/poetry.toml",
+  "https://github.com/CaptainBloodborne/python-style/blob/master/styles/ruff.toml",
+  "https://github.com/CaptainBloodborne/python-style/blob/master/styles/mypy.toml",
+  "https://github.com/CaptainBloodborne/python-style/blob/master/styles/file-structure.toml"
 ]
