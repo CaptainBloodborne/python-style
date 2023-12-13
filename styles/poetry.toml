@@ -13,9 +13,6 @@
 [nitpick.files.present]
 "pyproject.toml" = "Install poetry and run 'poetry init' to create it"
 
-["pyproject.toml".tool.black]
-line-length = 120
-
 ["pyproject.toml".tool.poetry.group.dev.dependencies]
 nitpick = "*"
 
