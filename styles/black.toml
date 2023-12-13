@@ -1,0 +1,5 @@
+["pyproject.toml".tool.black]
+line-length = 79
+include = '\.pyi?$'
+# 'extend-exclude' excludes files or directories in addition to the defaults
+extend-exclude = '^/static/app/'
